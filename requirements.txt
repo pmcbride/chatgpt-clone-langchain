@@ -1,2 +1,44 @@
 flask
 requests
+langchain
+tiktoken
+# flask-markdown
+# flask-misaka
+
+# AI APIs
+openai
+elevenlabs
+
+python-dotenv
+faiss-cpu
+# plotly
+# scipy
+# scikit-learn
+
+# HTML
+# playwright
+beautifulsoup4
+# lxml
+readability-lxml
+fake_useragent
+markdown
+
+# Search
+google-api-python-client
+google-search-results
+duckduckgo-search
+pydantic
+
+##Dev
+pylint
+pylance
+autopep8
+black
+flake8
+isort
+gitpython
+
+# Jupyter
+jupyter
+ipykernel
+ipython

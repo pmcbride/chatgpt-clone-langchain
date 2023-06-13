@@ -1,6 +1,9 @@
+from dotenv import load_dotenv
+load_dotenv()
 from server.app     import app
 from server.website import Website
-from server.backend import Backend_Api
+# from server.backend import Backend_Api
+from server.backend_langchain import Backend_Api
 
 from json import load
 

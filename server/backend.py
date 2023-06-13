@@ -4,8 +4,8 @@ from flask import request
 from hashlib import sha256
 from datetime import datetime
 from requests import get
-from requests import post 
-from json     import loads
+from requests import post
+from json import loads
 import os
 
 from server.config import special_instructions
